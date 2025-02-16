@@ -1,4 +1,4 @@
-# Diplodoc
+# Diplodoc тест
 
 Diplodoc is an open-source platform for working with your documentation in the "Documentation as a Code" paradigm.
 Simple and comfortable solution for everyone.
