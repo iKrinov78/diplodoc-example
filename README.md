@@ -38,3 +38,7 @@ wait for the development server startup
 enjoy developing documentation with html result preview in split view
 
 ![codespaces project](images/codespaces-project.jpeg)
+
+Проект в Diplodoc
+После завершения релиза https://github.com/iKrinov78/diplodoc-example/actions/runs/13348267210
+проект будет доступен по ссылке. https://common---gh-ajebph4dllhatbt7gqct.viewer.diplodoc.com/
